@@ -1,3 +1,12 @@
+// Main.cpp
+// CS 4499
+// Written By: Katherine Wilsdon
+// 13 February 2019
+// Dr. Kerby
+// Description - Creates five trucks in the Truck vector using the truck class
+// that inherits from vehicle and prints out all 7 private member variables
+//for each truck.
+
 #include "Vehicle.h"
 #include "Truck.h"
 #include <iostream>
